@@ -41,3 +41,37 @@
     />
   </a>
 </p>
+
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/azeem-14854132b/" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Azeem Noor LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/codekit_/" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Codekit_ Instagram"
+      height="30"
+      width="40"
+    />
+  </a>
+</p>
+
+### 📱 Codekit_
+
+<p>
+Founder of <strong>Codekit_</strong>, a tech-focused Instagram page where I share programming, web development, networking, and software development content.
+</p>

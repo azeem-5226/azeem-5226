@@ -45,7 +45,9 @@
 
 
 
-
+<a href="https://github.com/azeem-5226">
+  <img src="https://github-streak-stats-rouge.vercel.app/api/streak?user=azeem-5226" alt="azeem-5226's GitHub Streak" />
+</a>
 
 
   <a href="https://www.instagram.com/codekit_/" target="_blank">

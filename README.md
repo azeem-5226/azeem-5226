@@ -29,6 +29,12 @@
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect with you!</b> 😊</em>
+
+
+<a href="https://github.com/azeem-5226">
+  <img src="https://github-streak-stats-rouge.vercel.app/api/streak?user=azeem-5226" alt="azeem-5226's GitHub Streak" />
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/azeem-14854132b/" target="_blank">
@@ -44,10 +50,6 @@
 
 
 
-
-<a href="https://github.com/azeem-5226">
-  <img src="https://github-streak-stats-rouge.vercel.app/api/streak?user=azeem-5226" alt="azeem-5226's GitHub Streak" />
-</a>
 
 
   <a href="https://www.instagram.com/codekit_/" target="_blank">
